@@ -34,26 +34,19 @@ No se utiliza base de datos ni JPA, tal como indica el enunciado.
 
 Estructura del proyecto
 src/main/java/com/turnero/vuelos
-│
-├── controllers
+│controllers
 │   └── VueloController.java
-│
-├── services
+│ services
 │   └── VueloService.java
-│
-├── repositories
+│repositories
 │   └── VueloRepository.java
-│
-├── models
+│ models
 │   └── Vuelo.java
-│
-├── dtos
+│dtos
 │   └── VueloDTO.java
-│
-├── utils
+│utils
 │   └── FechaUtils.java
-│
-└── VuelosApplication.java
+│VuelosApplication.java
 
 Descripción de paquetes
 
